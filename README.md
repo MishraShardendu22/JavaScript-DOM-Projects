@@ -14,23 +14,23 @@ Dive in to explore interactive web applications, dynamic content manipulation, a
 
 # Projects:
 
-# Color Changer 🔥
-## 1. [Project 1](https://color-switch-shardendumishra.netlify.app/)
+## Color Changer 🔥
+### 1. [Project 1](https://color-switch-shardendumishra.netlify.app/)
 
-# BMI Generator ☕️
-## 2. [Project 2](https://bmi-calc-shardendumishra.netlify.app/)
+## BMI Generator ☕️
+### 2. [Project 2](https://bmi-calc-shardendumishra.netlify.app/)
 
-# Digital Clock 😎
-## 3. [Project 3](https://realtime-clock-shardendumishra.netlify.app/)
+## Digital Clock 😎
+### 3. [Project 3](https://realtime-clock-shardendumishra.netlify.app/)
 
-# Guess the Number 🤨
-## 4. [Project 4](https://number-guess-shardendumishra.netlify.app/)
+## Guess the Number 🤨
+### 4. [Project 4](https://number-guess-shardendumishra.netlify.app/)
 
-# Keyboard Check 👻
-## 5. [Project 5](https://key-pressed-shardendumishra.netlify.app/)
+## Keyboard Check 👻
+### 5. [Project 5](https://key-pressed-shardendumishra.netlify.app/)
 
-# Unlimited Colors 🧠
-## 6. [Project 6](https://unlimited-colors-shardendumishra.netlify.app/)
+## Unlimited Colors 🧠
+### 6. [Project 6](https://unlimited-colors-shardendumishra.netlify.app/)
 
-# Personal Card Using GitHub API😎
-## 7. [Project 7](https://github-api-shardendumishra.netlify.app/)
+## Personal Card Using GitHub API😎
+### 7. [Project 7](https://github-api-shardendumishra.netlify.app/)
