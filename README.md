@@ -6,7 +6,7 @@ Dive in to explore interactive web applications, dynamic content manipulation, a
 
 ## Explore my projects hosted on Netlify:
 
-### [Main Page](https://main-shardendumishra.netlify.app/)
+# [Main Page](https://main-shardendumishra.netlify.app/)
 
 ## Technologies
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/html5/html5-original.svg" alt="HTML" width="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/css3/css3-original.svg" alt="CSS" width="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
