@@ -3,5 +3,15 @@
 ## Dive in to explore interactive web applications, dynamic content manipulation, and more!  Feel free to explore and provide feedback or suggestions for improvements!
 
 
-# Main Site
-https://main--javascript-dom-shardendumishra.netlify.app/
+
+Explore my projects hosted on Netlify:
+# Main Site [()]
+Project 1 - Color Changer 🔥 [(https://main-shardendumishra.netlify.app/)]
+
+
+Project 2 - BMI Generator ☕️
+Project 3 - Digital Clock 😎
+Project 4 - Guess the Number 🤨
+Project 5 - Keyboard Check 👻
+Project 6 - Unlimited Colors 🧠
+Project 7 - Personal Card 😎
